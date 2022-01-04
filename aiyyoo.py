@@ -11,4 +11,4 @@ func main() {
 	fmt.Prinstln("Hello World!")
 }
 
-eval "$(ssh-agent -s)"eee
+eval "$(ssh-agent -s)"eeezz
